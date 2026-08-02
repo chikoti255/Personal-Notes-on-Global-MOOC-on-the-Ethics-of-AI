@@ -1,0 +1,103 @@
+Foundations of AI Ethics: Comprehensive Study
+
+1. UTILITARIANISM
+
+Easy definition: "The greatest good for the greatest number"
+
+    Focus: Outcomes/results only
+
+    In AI terms: Deploy a system if it creates more total benefit than harm
+
+    Question it answers: "Does this make things better overall?"
+
+    Example: Deploying an AI diagnostic tool that saves 100 lives but misdiagnoses 5 people
+
+   
+2. DEONTOLOGY
+
+Easy definition: "Rules are rules, regardless of outcomes"
+
+    Focus: Duties and rights, not consequences
+
+    In AI terms: Some things are non-negotiable (dignity, due process, non-discrimination)
+
+    Question it answers: "Does this respect people's rights?"
+
+    Example: Refusing to use AI for hiring even if it's efficient, because it might discriminate
+
+ 
+ 3. VIRTUE ETHICS
+
+Easy definition: "What would a good person/organization do?"
+
+    Focus: Character and moral excellence
+
+    In AI terms: What kind of company do we become through our design choices?
+
+    Question it answers: "Does this make us better people/organizations?"
+
+    Example: Choosing not to use manipulative AI even if profitable  
+
+
+Cultural & Relational Ethics
+Ubuntu (African)
+
+Core idea: "A person is a person through other persons"
+
+    Shift: Individual consent → Communal impact
+
+    Key insight: Your AI affects the community, not just the user
+
+    Example: Instead of asking "Did user consent?" ask "How does this affect the community?"
+
+
+Communitarian Ethics
+
+Core idea: Community > Individual
+
+    Shift: Individual rights → Community wellbeing
+
+    Example: An AI that helps the whole community, even if it limits some individual choices
+
+
+
+Confucian Role Ethics
+
+Core idea: Character is formed through practice and relationship
+
+    Key insight: No design culture is morally neutral
+
+    Example: Your AI design team's habits create ethical outcomes
+
+
+Buddhist Ethics
+
+Core idea: Non-harm and interdependence
+
+    Key insight: AI isn't an isolated object; it's connected to everyone
+
+    Example: Your chatbot affects not just users, but labelers, trainers, and society
+
+
+Indian Dharmic Traditions
+
+Core idea: Duty is context-sensitive
+
+    Key insight: What's right depends on role, situation, time
+
+    Example: Sometimes you must choose the "least bad" option
+
+
+Meta-Ethics - The "Meta" Layer
+
+Definition: Questions what moral claims even mean
+
+Key question: "Are values universal or contextual?"
+
+Why this matters for AI:
+
+    Is it wrong everywhere to use AI for surveillance? Or only in some cultures?
+
+    Can you export Western AI ethics to other countries?
+
+The reality: Ethical pluralism → Different traditions optimize different values
